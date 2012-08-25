@@ -10,8 +10,8 @@ my $avatarsio = new AvatarsIO; # Create the object
 
 # Take these information from www.avatars.io
 
-$avatarsio->client_id('50379f363f59d82ec0000002');
-$avatarsio->access_token('e89258601f0dc851356490644d3eb6346120bdbbe268791abe4470be5fad3325');
+$avatarsio->client_id('your client id');
+$avatarsio->access_token('your access token');
 
 # Upload avatar and return image link ( es. )
 
